@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0136-single-number) |
 | [0724-find-pivot-index](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [1207-unique-number-of-occurrences](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/1207-unique-number-of-occurrences) |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0394-decode-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
