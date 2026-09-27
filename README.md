@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0031-next-permutation) |
 | [0136-single-number](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0136-single-number) |
 | [0724-find-pivot-index](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0735-asteroid-collision) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0031-next-permutation) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
