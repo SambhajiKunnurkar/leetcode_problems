@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0031-next-permutation) |
 | [0136-single-number](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0136-single-number) |
 | [0724-find-pivot-index](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0724-find-pivot-index) |
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SambhajiKunnurkar/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
